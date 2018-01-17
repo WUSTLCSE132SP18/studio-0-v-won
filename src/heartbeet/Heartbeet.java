@@ -18,7 +18,7 @@ public class Heartbeet implements Runnable {
 			try {
 				Thread.sleep(1000);
 			}
-			catch (Exception e){
+			catch (Exception e){ 
 				System.out.println(e);
 			}
 			
